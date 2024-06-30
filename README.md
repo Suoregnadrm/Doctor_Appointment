@@ -17,25 +17,26 @@ This Flutter application allows patients to book appointments with doctors. Both
 </ul>
 
 <b>Installation</b>
-1. Clone the repo
-<code>
-git clone https://github.com/Suoregnadrm/Doctor_Appointment.git
-cd Doctor_Appointment/
-</code>
+<ol>
+<li>Clone the repo
+  <ul>
+<li><code>git clone https://github.com/Suoregnadrm/Doctor_Appointment.git</code></li>
+<li><code>cd Doctor_Appointment/</code></li></ul></li>
 
-2. Install Dependencies
-<code>
-flutter pub get
-</code>
+<li>Install Dependencies
+<ul><li><code>flutter pub get</code></li></ul>
+</li>
 
-3. Set up Firebase:
+<li>Set up Firebase:
 <ul>
   <li>Go to the Firebase Console and create a new project.</li>
   <li>Enable Authentication and Firestore Database.</li>
   <li>Download the google-services.json file for Android and GoogleService-Info.plist file for iOS.</li>
 </ul>
+</li>
+</ol>
 
-<b>Usage</b>
-Run the application: <code> flutter run </code>
+<b>Usage</b><br>
+Run the application: <code> flutter run </code><br>
 <br>
 <b> Thank You </b>
